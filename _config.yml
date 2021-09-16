@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "류서현"
 description              : "미소짓는 사회 한입"
-url                      : the base hostname & protocol for your site e.g. "https://UNJENA smile.github.io"
+url                      : "https://UNJENA smile.github.io" # the base hostname & protocol for your site e.g. "https://UNJENA smile.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "RYUBELLA/RYUBELLA.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
